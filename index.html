@@ -378,7 +378,8 @@ function showDetail(id){
   // Section stats for this vault
   const secVaults=bySection[d.calle]||[];
   const folioVaults=secVaults.filter(v=>v.folio===d.folio);
-  const secConPaz=secVaults.filter(v=>v.paz_salvo).length;
+  const folioConPaz=folioVaults.filter(v=>v.paz_salvo).length;
+  const folioSinPaz=folioVaults.length-folioConPaz;
   const ownerVaults=D.filter(v=>v.propietario&&v.propietario.trim().toLowerCase()===d.propietario.trim().toLowerCase());
   
   const libro=d.libro;
@@ -441,15 +442,15 @@ function showDetail(id){
         </div>
         <div class="nicho-stat">
           <div class="n-val" style="color:${ll}">${folioVaults.length}</div>
-          <div class="n-lbl">Nichos en Folio ${d.folio}</div>
+          <div class="n-lbl">Bóvedas en Folio ${d.folio}</div>
         </div>
         <div class="nicho-stat">
-          <div class="n-val" style="color:var(--green)">${secConPaz}</div>
-          <div class="n-lbl">Paz y salvo en sección</div>
+          <div class="n-val" style="color:var(--green)">${folioConPaz}</div>
+          <div class="n-lbl">Paz y salvo en Folio ${d.folio}</div>
         </div>
         <div class="nicho-stat">
-          <div class="n-val" style="color:var(--text2)">${secVaults.length - secConPaz}</div>
-          <div class="n-lbl">Sin paz y salvo</div>
+          <div class="n-val" style="color:var(--text2)">${folioSinPaz}</div>
+          <div class="n-lbl">Sin paz y salvo en Folio ${d.folio}</div>
         </div>
       </div>
     </div>
