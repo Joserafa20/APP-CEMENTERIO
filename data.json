@@ -1,0 +1,4472 @@
+[
+  {
+    "num": "101A",
+    "propietario": "ADOLFO MANOTAS",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "1"
+  },
+  {
+    "num": "102A",
+    "propietario": "FLIA MARCHENA CASTRO",
+    "direccion": "CR 22 N°27-112",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "1"
+  },
+  {
+    "num": "103A",
+    "propietario": "FLIA RINCON BARRAZA",
+    "direccion": "",
+    "paz_salvo": "2014/2016",
+    "recibo": "C-O-R 42582",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "1"
+  },
+  {
+    "num": "104A",
+    "propietario": "MARDONIO ZAMBRANO",
+    "direccion": "CR 17 N°14A-11",
+    "paz_salvo": "1995",
+    "recibo": "9100",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "1"
+  },
+  {
+    "num": "105A",
+    "propietario": "FIDELA PEÑA GARCIA",
+    "direccion": "CL 16 N°17-04",
+    "paz_salvo": "2001/02",
+    "recibo": "M-08575",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "1"
+  },
+  {
+    "num": "107A",
+    "propietario": "FLIA HURTADO BUJATO",
+    "direccion": "",
+    "paz_salvo": "2001",
+    "recibo": "M-01214",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "2"
+  },
+  {
+    "num": "108A",
+    "propietario": "ENRIQUE PATIÑO SULBARAN",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "2"
+  },
+  {
+    "num": "109A",
+    "propietario": "HNOS TORREGROSA CALVO Y/O HNOS",
+    "direccion": "CL 15 N°5-25",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "2"
+  },
+  {
+    "num": "110A",
+    "propietario": "EVARISTA CASTRO DE ALVAREZ",
+    "direccion": "",
+    "paz_salvo": "1999-2003",
+    "recibo": "M-10548",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "2"
+  },
+  {
+    "num": "111A",
+    "propietario": "YANETH HOYOS",
+    "direccion": "",
+    "paz_salvo": "2002/2003",
+    "recibo": "M-10449",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "2"
+  },
+  {
+    "num": "113A",
+    "propietario": "LUDIS CASTRO GUTIERREZ",
+    "direccion": "",
+    "paz_salvo": "1996",
+    "recibo": "9211",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "3"
+  },
+  {
+    "num": "114A",
+    "propietario": "MARIA VDA DEMARAÑON",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "3"
+  },
+  {
+    "num": "115A",
+    "propietario": "MARTHA MERCADO SUAREZ",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "3"
+  },
+  {
+    "num": "116A",
+    "propietario": "ADOLFO BERDUGO",
+    "direccion": "CL 24 N°12-",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "3"
+  },
+  {
+    "num": "117A",
+    "propietario": "LUIS ACUÑA BARRAZA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "3"
+  },
+  {
+    "num": "118A",
+    "propietario": "CIELO TERAN TERAN",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "3"
+  },
+  {
+    "num": "119A",
+    "propietario": "ISABEL AHUMADA DE MOLINA",
+    "direccion": "CL 15 N°2-45",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "4"
+  },
+  {
+    "num": "120A",
+    "propietario": "FLIA GOMEZ MENDOZA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "4"
+  },
+  {
+    "num": "121A",
+    "propietario": "IRMA ALVAREZ PANTOJA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "4"
+  },
+  {
+    "num": "122A",
+    "propietario": "ABRAHAM MERCADO SALAZAR",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "4"
+  },
+  {
+    "num": "123A",
+    "propietario": "CANDIDA CERVANTES VEGA Y/O FLIA",
+    "direccion": "CRA 28A N°15-38",
+    "paz_salvo": "1996",
+    "recibo": "9463",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "4"
+  },
+  {
+    "num": "124A",
+    "propietario": "GLADIS MARCIANA PRENT",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "4"
+  },
+  {
+    "num": "125A",
+    "propietario": "FARIDES URDANETA MENDOZA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "5"
+  },
+  {
+    "num": "126A",
+    "propietario": "FLIA CORONADO AHUMADA",
+    "direccion": "CL 10 N°18-75",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "5"
+  },
+  {
+    "num": "127A",
+    "propietario": "ALCIBIADES CABALLERO",
+    "direccion": "CL 13 N°26-70",
+    "paz_salvo": "39238",
+    "recibo": "15917",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "5"
+  },
+  {
+    "num": "128A",
+    "propietario": "RAIMUNDO MERCADO CUENTAS",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "5"
+  },
+  {
+    "num": "129A",
+    "propietario": "HECTOR CONTRERAS AVILA",
+    "direccion": "",
+    "paz_salvo": "1997",
+    "recibo": "9630",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "5"
+  },
+  {
+    "num": "130A",
+    "propietario": "ANDRES MERCADO VILORIA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "5"
+  },
+  {
+    "num": "131A",
+    "propietario": "FRANCISCA CUENTAS DE R.",
+    "direccion": "CR 22 N°29B-04",
+    "paz_salvo": "1996",
+    "recibo": "9403",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "6"
+  },
+  {
+    "num": "132A",
+    "propietario": "EMELVITA PRIMO M.",
+    "direccion": "",
+    "paz_salvo": "abono 20000",
+    "recibo": "M-08297",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "6"
+  },
+  {
+    "num": "133A",
+    "propietario": "EDELMINA MERCADO DE PACHECO",
+    "direccion": "",
+    "paz_salvo": "1993",
+    "recibo": "8409",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "6"
+  },
+  {
+    "num": "134A",
+    "propietario": "FRANCIA SILVERA DE DAZA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "6"
+  },
+  {
+    "num": "135A",
+    "propietario": "DEYANIRA I. VIZCAINO DE GARCIA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "6"
+  },
+  {
+    "num": "136A",
+    "propietario": "GLADIS CABARCAS HENRIQUEZ",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "6"
+  },
+  {
+    "num": "137A",
+    "propietario": "ENRIQUE OLMOS FIGUEROA",
+    "direccion": "CL 18 N°10A-81",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "7"
+  },
+  {
+    "num": "138A",
+    "propietario": "FLIA OROZCO BERDUGO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "7"
+  },
+  {
+    "num": "139A",
+    "propietario": "ARCADIO CERA CASTELLANO",
+    "direccion": "",
+    "paz_salvo": "2000",
+    "recibo": "12556",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "7"
+  },
+  {
+    "num": "140A",
+    "propietario": "ALBEY MEJIA MEJIA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "7"
+  },
+  {
+    "num": "141A",
+    "propietario": "ELENA GUTIERREZ DE FRANCO",
+    "direccion": "CL 23 N°14-",
+    "paz_salvo": "2002",
+    "recibo": "M-04171",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "7"
+  },
+  {
+    "num": "142A",
+    "propietario": "IRENE DE LA ROSA",
+    "direccion": "CL 31 N°21A-21",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "7"
+  },
+  {
+    "num": "143A",
+    "propietario": "CECILIA OSPINO VARGAS",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "8"
+  },
+  {
+    "num": "144A",
+    "propietario": "ALBA RIVERA HERNANDEZ",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "8"
+  },
+  {
+    "num": "145A",
+    "propietario": "MARIA CUENTAS DE SOLANO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "8"
+  },
+  {
+    "num": "146A",
+    "propietario": "ABELARDO URUETA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "8"
+  },
+  {
+    "num": "147A",
+    "propietario": "ABELARDO DITA OROZCO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "8"
+  },
+  {
+    "num": "148A",
+    "propietario": "FLIA MENDOZA MERCADO",
+    "direccion": "CL 13 N°20-145",
+    "paz_salvo": "2007-2009",
+    "recibo": "C.O.R 23948",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "8"
+  },
+  {
+    "num": "149A",
+    "propietario": "BEATRIZ BLANCO CABRERA",
+    "direccion": "CL 28 N°20A-04",
+    "paz_salvo": "2012-2016",
+    "recibo": "C.O.R. 50538",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "9"
+  },
+  {
+    "num": "150A",
+    "propietario": "FLIA NAVARRO MORALES",
+    "direccion": "CL 14 N°19-96",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "9"
+  },
+  {
+    "num": "151A",
+    "propietario": "FRANKLIN CASTELLANOS BLANCO",
+    "direccion": "CL 15 N°18A-14",
+    "paz_salvo": "36527",
+    "recibo": "M-08963",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "9"
+  },
+  {
+    "num": "152A",
+    "propietario": "CARLOS J. GARCIA OLIVARES",
+    "direccion": "CR 16 N°27B-29",
+    "paz_salvo": "2001",
+    "recibo": "M-02287",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "9"
+  },
+  {
+    "num": "153A",
+    "propietario": "TOMAS MERCADO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "9"
+  },
+  {
+    "num": "154A",
+    "propietario": "HILARIO ACOSTA PALOMINO",
+    "direccion": "CR 24 N°27-103",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "9"
+  },
+  {
+    "num": "155A",
+    "propietario": "FLIA MANOTAS OROZCO",
+    "direccion": "CR 9 N°15-32",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "10"
+  },
+  {
+    "num": "156A",
+    "propietario": "FLIA CASTRO NAVARRO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "10"
+  },
+  {
+    "num": "157A",
+    "propietario": "LUZ M. CASTRO MEJIA",
+    "direccion": "",
+    "paz_salvo": "2001/02",
+    "recibo": "M-08642",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "10"
+  },
+  {
+    "num": "158A",
+    "propietario": "CARMEN R. LOPEZ DE PAYARES",
+    "direccion": "",
+    "paz_salvo": "1996-2004",
+    "recibo": "6557",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "10"
+  },
+  {
+    "num": "159A",
+    "propietario": "JOSE PEREZ VERGARA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "10"
+  },
+  {
+    "num": "160A",
+    "propietario": "JOSE SANJUAN ESCORCIA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "10"
+  },
+  {
+    "num": "161A",
+    "propietario": "MARCOS CORONADO DE LOS REYES",
+    "direccion": "CR 31 N°16-26",
+    "paz_salvo": "1995",
+    "recibo": "12009",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "11"
+  },
+  {
+    "num": "162A",
+    "propietario": "RAQUEL CORONADO DE LOS REYES",
+    "direccion": "CR 29 N°22-101",
+    "paz_salvo": "2015/16/17",
+    "recibo": "17010410001941",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "11"
+  },
+  {
+    "num": "163A",
+    "propietario": "DARIO SARMIENTO ARIZA",
+    "direccion": "",
+    "paz_salvo": "2003/2004",
+    "recibo": "9043",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "11"
+  },
+  {
+    "num": "164A",
+    "propietario": "DIANA VILLEGAS ROMO",
+    "direccion": "",
+    "paz_salvo": "2011/2013",
+    "recibo": "C.O.R. 39325",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "11"
+  },
+  {
+    "num": "165A",
+    "propietario": "LUIS CASTRO GOMEZ",
+    "direccion": "CL 28 N°20A-03",
+    "paz_salvo": "2001/2002",
+    "recibo": "M-08383",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "11"
+  },
+  {
+    "num": "166A",
+    "propietario": "ANGEL MARCHENA BERDUGO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "11"
+  },
+  {
+    "num": "167A",
+    "propietario": "FLIA GUTIERREZ TATIS",
+    "direccion": "CL 19 N°9-04",
+    "paz_salvo": "1996",
+    "recibo": "9442",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "12"
+  },
+  {
+    "num": "168A",
+    "propietario": "DANIEL CACERES CONTRERAS",
+    "direccion": "",
+    "paz_salvo": "1993",
+    "recibo": "8470",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "12"
+  },
+  {
+    "num": "169A",
+    "propietario": "JOSE MANUEL OQUENDO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "12"
+  },
+  {
+    "num": "170A",
+    "propietario": "ALVARO ROMERO GUTIERREZ",
+    "direccion": "CR 23 N°25B-41",
+    "paz_salvo": "2001",
+    "recibo": "M-03026",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "12"
+  },
+  {
+    "num": "171A",
+    "propietario": "MARCELANO SARMIENTO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "12"
+  },
+  {
+    "num": "172A",
+    "propietario": "FLIA MOVILLA GOMEZ",
+    "direccion": "CR 22A N°25-36",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "12"
+  },
+  {
+    "num": "173A",
+    "propietario": "GUSTAVO ROMERO RUIZ",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "13"
+  },
+  {
+    "num": "174A",
+    "propietario": "JOSE NIÑO MERCADO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "13"
+  },
+  {
+    "num": "175A",
+    "propietario": "FLIA PADILLA CUENTAS",
+    "direccion": "",
+    "paz_salvo": "2003/2004",
+    "recibo": "7677",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "13"
+  },
+  {
+    "num": "176A",
+    "propietario": "ETELVINA POLO DE CAMACHO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "7178",
+    "calle": "CRA 1A",
+    "libro": "1",
+    "folio": "13"
+  },
+  {
+    "num": "101B",
+    "propietario": "ANGEL MARIA CASTRO BERDUGO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "13"
+  },
+  {
+    "num": "102B",
+    "propietario": "FLIA CERA CASTILLO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "14"
+  },
+  {
+    "num": "103B",
+    "propietario": "GRICELDA DIAZ, MARIA MUÑOZ Y MIGUEL",
+    "direccion": "",
+    "paz_salvo": "2002",
+    "recibo": "M-08529",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "14"
+  },
+  {
+    "num": "104B",
+    "propietario": "ELVIA CAICEDO DE TORREGROZA",
+    "direccion": "CR 19 N°9-159",
+    "paz_salvo": "1994",
+    "recibo": "8823",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "14"
+  },
+  {
+    "num": "105B",
+    "propietario": "EMIGDIO MERCADO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "14"
+  },
+  {
+    "num": "106B",
+    "propietario": "ABRAHAM PACHECO Y/O EDILMA MERCA-",
+    "direccion": "CL 14 N°20-04",
+    "paz_salvo": "2002/2003",
+    "recibo": "M-07837",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "14"
+  },
+  {
+    "num": "107B",
+    "propietario": "CRISTIAN VARELA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "14"
+  },
+  {
+    "num": "108B",
+    "propietario": "CARLOS GOLDFARB W.",
+    "direccion": "CR 23 N°28-29",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "15"
+  },
+  {
+    "num": "109B",
+    "propietario": "FLIA MOLINA MACHACON",
+    "direccion": "CR 22 N°22-62",
+    "paz_salvo": "2002",
+    "recibo": "M-03746",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "15"
+  },
+  {
+    "num": "111B",
+    "propietario": "FLIA BERDUGO ALVAREZ",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "15"
+  },
+  {
+    "num": "112B",
+    "propietario": "FLIA JIMENEZ VARGAS",
+    "direccion": "CL. 22 N°15-04",
+    "paz_salvo": "2016",
+    "recibo": "C.O.R. 49493",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "15"
+  },
+  {
+    "num": "113B",
+    "propietario": "RODIGO RODRIGUEZ NAVARRO",
+    "direccion": "CR 22 N°27-41",
+    "paz_salvo": "2002",
+    "recibo": "M-06429",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "15"
+  },
+  {
+    "num": "114B",
+    "propietario": "AMIR ARAUJO MANOTAS",
+    "direccion": "CR 22B N°26-62",
+    "paz_salvo": "1995",
+    "recibo": "9064",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "16"
+  },
+  {
+    "num": "115B",
+    "propietario": "OLGA SANJUAN BERDUGO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "16"
+  },
+  {
+    "num": "116B",
+    "propietario": "FLIA BERDUGO SANJUAN",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "16"
+  },
+  {
+    "num": "117B",
+    "propietario": "FLIA CASTRO ARAUJO",
+    "direccion": "",
+    "paz_salvo": "2014/2017",
+    "recibo": "17010410001211",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "16"
+  },
+  {
+    "num": "118B",
+    "propietario": "NORA MENDOZA DE AVILA",
+    "direccion": "",
+    "paz_salvo": "1997",
+    "recibo": "9807",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "16"
+  },
+  {
+    "num": "120B",
+    "propietario": "FLIA VEGA TORRENEGRA",
+    "direccion": "CL 13 N°17-50",
+    "paz_salvo": "2013/2017",
+    "recibo": "17010410003718",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "17"
+  },
+  {
+    "num": "121B",
+    "propietario": "FLIA DE LOS REYES BAÑOS",
+    "direccion": "CL 18 N°14-03",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "17"
+  },
+  {
+    "num": "122B",
+    "propietario": "PEDRO SARMIENTO AHUMADA",
+    "direccion": "CL 13 N°20-42",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "17"
+  },
+  {
+    "num": "123B",
+    "propietario": "ROSEMBERG ORTEGA LORENS",
+    "direccion": "CL 20 N°18-",
+    "paz_salvo": "1996",
+    "recibo": "9245",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "17"
+  },
+  {
+    "num": "124B",
+    "propietario": "JUAN ESTRADA CUENTAS",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "17"
+  },
+  {
+    "num": "125B",
+    "propietario": "JESUS MARIA MOLINA RIPOLL",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "17"
+  },
+  {
+    "num": "126B",
+    "propietario": "TANIA ORTEGA CONTRERAS",
+    "direccion": "CL 18 N°19B-140",
+    "paz_salvo": "2014",
+    "recibo": "C-O-R.41522",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "18"
+  },
+  {
+    "num": "127B",
+    "propietario": "RAFAEL RICAURTE TESILLO",
+    "direccion": "",
+    "paz_salvo": "2016/2017",
+    "recibo": "17101410003939",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "18"
+  },
+  {
+    "num": "128B",
+    "propietario": "ANA I. CORONADO BOLAÑO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "18"
+  },
+  {
+    "num": "129B",
+    "propietario": "ANTONIO FELIPE LUQUEZ MARQUEZ",
+    "direccion": "CL 15B N°5-42",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "18"
+  },
+  {
+    "num": "131B",
+    "propietario": "ISOLINA GOMEZ DE B.",
+    "direccion": "",
+    "paz_salvo": "2002",
+    "recibo": "M-03745",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "18"
+  },
+  {
+    "num": "132B",
+    "propietario": "FELIPE TERAN R.",
+    "direccion": "CL 25 N°10-67",
+    "paz_salvo": "M-20153",
+    "recibo": "2001",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "19"
+  },
+  {
+    "num": "133B",
+    "propietario": "ADELFA SOÑETH DE SARMIENTO",
+    "direccion": "",
+    "paz_salvo": "36527",
+    "recibo": "M-08168",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "19"
+  },
+  {
+    "num": "134B",
+    "propietario": "MARGOTH PUELLO DE REYES",
+    "direccion": "",
+    "paz_salvo": "2003",
+    "recibo": "9043",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "19"
+  },
+  {
+    "num": "135B",
+    "propietario": "MARGOTH PUELLO DE REYES",
+    "direccion": "CR 16 N°20-03",
+    "paz_salvo": "2014",
+    "recibo": "C-O-R. 41203",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "19"
+  },
+  {
+    "num": "136B",
+    "propietario": "MANUEL R. LLINAS HUGUES",
+    "direccion": "CL 27 N°11-62",
+    "paz_salvo": "1996",
+    "recibo": "9208",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "19"
+  },
+  {
+    "num": "137B",
+    "propietario": "JHONY HERNANDEZ HERAZO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "19"
+  },
+  {
+    "num": "138B",
+    "propietario": "FLIA PALMAS MORALES",
+    "direccion": "CR 8 N°25-03",
+    "paz_salvo": "2013",
+    "recibo": "",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "20"
+  },
+  {
+    "num": "139B",
+    "propietario": "BEATRIZ MARQUEZ PEREZ",
+    "direccion": "CL 29 N°13A-39",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "20"
+  },
+  {
+    "num": "140B",
+    "propietario": "RUBEN RIVERA GONZALEZ",
+    "direccion": "CL 27F N°16B-23",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "20"
+  },
+  {
+    "num": "141B",
+    "propietario": "ELKIN DURAN HINCAPIE",
+    "direccion": "CR 22A N°16B-34",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "20"
+  },
+  {
+    "num": "142B",
+    "propietario": "MARITZA PADILLA CABALLERO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "M-09867",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "20"
+  },
+  {
+    "num": "143B",
+    "propietario": "SIMON MERCADO",
+    "direccion": "CL 15 N°19-64",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "20"
+  },
+  {
+    "num": "144B",
+    "propietario": "FLIA HERRERA CASTRO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "21"
+  },
+  {
+    "num": "145B",
+    "propietario": "JORGE CABARCAS BETTS",
+    "direccion": "CL 21 N°12-30",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "21"
+  },
+  {
+    "num": "146B",
+    "propietario": "SAUL LLINAS vende a LUIS ALBERTO GON-",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "21"
+  },
+  {
+    "num": "147B",
+    "propietario": "SAUL LLINAS vende a LUIS ALBERTO GON-",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "21"
+  },
+  {
+    "num": "148B",
+    "propietario": "CONCEPCION PEÑA DE HURTADO",
+    "direccion": "CR 20 N°24A-103",
+    "paz_salvo": "2001/02",
+    "recibo": "M-05771",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "21"
+  },
+  {
+    "num": "149B",
+    "propietario": "GABRIELA MERCADO DE CARABALLO",
+    "direccion": "",
+    "paz_salvo": "2001/2002",
+    "recibo": "M-06284",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "21"
+  },
+  {
+    "num": "150B",
+    "propietario": "BERNARDO ROA OLIVARES",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "22"
+  },
+  {
+    "num": "151B",
+    "propietario": "HERNANDO BERDUGO B.",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "22"
+  },
+  {
+    "num": "152B",
+    "propietario": "EMILDA SARMIENTO DE BERDUGO",
+    "direccion": "CL 13 N°17-64",
+    "paz_salvo": "1997/2002",
+    "recibo": "7798",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "22"
+  },
+  {
+    "num": "153B",
+    "propietario": "MARIA BERDUGO DE THERAN",
+    "direccion": "",
+    "paz_salvo": "1999/2002",
+    "recibo": "M.06489",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "22"
+  },
+  {
+    "num": "154B",
+    "propietario": "NELSON GUTIERREZ MACHADO",
+    "direccion": "CL 22 N°11-36",
+    "paz_salvo": "2002",
+    "recibo": "M-09169",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "22"
+  },
+  {
+    "num": "2015",
+    "propietario": "C-O-R. 44240",
+    "direccion": "I-14/2015",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "22"
+  },
+  {
+    "num": "155B",
+    "propietario": "TERESA SARMIENTO DE GARCIA",
+    "direccion": "CL 22 N°12-05",
+    "paz_salvo": "2002",
+    "recibo": "M-09241",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "22"
+  },
+  {
+    "num": "157B",
+    "propietario": "ALCIRA BARRAZA RIVERA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "23"
+  },
+  {
+    "num": "158B",
+    "propietario": "ENRIQUETA ZAMBRANO DE AVILA",
+    "direccion": "CL 21 N°10-03",
+    "paz_salvo": "98/99/2000",
+    "recibo": "",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "23"
+  },
+  {
+    "num": "159B",
+    "propietario": "ZUNILDA VIZCAINO RODRIGUEZ",
+    "direccion": "CL 27 N°28-35",
+    "paz_salvo": "1994",
+    "recibo": "8611",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "23"
+  },
+  {
+    "num": "160B",
+    "propietario": "TARCILA MARRUGO DE HERNANDEZ",
+    "direccion": "CL 24 N°14",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "23"
+  },
+  {
+    "num": "161B",
+    "propietario": "JAIME BERDUGO CUENTAS",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "23"
+  },
+  {
+    "num": "162B",
+    "propietario": "CARMEN PACHECO MERCADO",
+    "direccion": "",
+    "paz_salvo": "1998",
+    "recibo": "10015",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "24"
+  },
+  {
+    "num": "163B",
+    "propietario": "FLIA ZAMBRANO BARRIOS",
+    "direccion": "",
+    "paz_salvo": "2015/2017",
+    "recibo": "17010410001873",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "24"
+  },
+  {
+    "num": "164B",
+    "propietario": "NUVIA GONZALEZ H.",
+    "direccion": "CR 23 N°24-150",
+    "paz_salvo": "1996",
+    "recibo": "",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "24"
+  },
+  {
+    "num": "165B",
+    "propietario": "FLIA PATIÑO ROA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "24"
+  },
+  {
+    "num": "167B",
+    "propietario": "NELLY MARBEL ALVAREZ SALAZAR",
+    "direccion": "",
+    "paz_salvo": "2009",
+    "recibo": "C-O-R.25142",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "24"
+  },
+  {
+    "num": "168B",
+    "propietario": "RODRIGO CASTELLANOS",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "25"
+  },
+  {
+    "num": "169B",
+    "propietario": "CARLOS LONDOÑO DE LA HOZ",
+    "direccion": "CL24 N°26-15",
+    "paz_salvo": "",
+    "recibo": "9184",
+    "calle": "CRA 1B",
+    "libro": "1",
+    "folio": "25"
+  },
+  {
+    "num": "201",
+    "propietario": "ZOILO E. PRADA CASTILLO",
+    "direccion": "CL 20 N°13-04",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 2",
+    "libro": "1",
+    "folio": "25"
+  },
+  {
+    "num": "202",
+    "propietario": "NINFA SALAZAR VDA DE MANOTAS",
+    "direccion": "CL 17 N°9-16",
+    "paz_salvo": "1996",
+    "recibo": "9247",
+    "calle": "CRA 2",
+    "libro": "1",
+    "folio": "25"
+  },
+  {
+    "num": "203",
+    "propietario": "FLIA CASTILLO ESTRADA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 2",
+    "libro": "1",
+    "folio": "25"
+  },
+  {
+    "num": "203A",
+    "propietario": "JORGE FEDERICO HOYOS REDONDO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 2",
+    "libro": "1",
+    "folio": "25"
+  },
+  {
+    "num": "204",
+    "propietario": "FLIA DE LOS RIOS MANOTAS",
+    "direccion": "",
+    "paz_salvo": "2013",
+    "recibo": "C-O-R 38960",
+    "calle": "CRA 2",
+    "libro": "1",
+    "folio": "26"
+  },
+  {
+    "num": "204A",
+    "propietario": "MILDRED DE JESUS MORALES ORTEGA",
+    "direccion": "",
+    "paz_salvo": "2015/2016",
+    "recibo": "C-O-R. 50800",
+    "calle": "CRA 2",
+    "libro": "1",
+    "folio": "26"
+  },
+  {
+    "num": "205",
+    "propietario": "FLIA MOVILLA RAMOS",
+    "direccion": "CL 20C N°19-20",
+    "paz_salvo": "1995",
+    "recibo": "",
+    "calle": "CRA 2",
+    "libro": "1",
+    "folio": "26"
+  },
+  {
+    "num": "206",
+    "propietario": "FLIA VIZCAINO ARIZA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 2",
+    "libro": "1",
+    "folio": "26"
+  },
+  {
+    "num": "207",
+    "propietario": "CESAR LLINAS R.",
+    "direccion": "CL 18 N°19B-48",
+    "paz_salvo": "1998",
+    "recibo": "9253",
+    "calle": "CRA 2",
+    "libro": "1",
+    "folio": "26"
+  },
+  {
+    "num": "208",
+    "propietario": "WADETH MARQUEZ ESTRADA",
+    "direccion": "",
+    "paz_salvo": "2001",
+    "recibo": "17376",
+    "calle": "CRA 2",
+    "libro": "1",
+    "folio": "26"
+  },
+  {
+    "num": "209",
+    "propietario": "FLIA ESCORCIA MEZA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 2",
+    "libro": "1",
+    "folio": "26"
+  },
+  {
+    "num": "211",
+    "propietario": "FLIA MOLINA HIDALGO",
+    "direccion": "CL 17 N°9-68",
+    "paz_salvo": "1997/2001",
+    "recibo": "18215",
+    "calle": "CRA 2",
+    "libro": "1",
+    "folio": "27"
+  },
+  {
+    "num": "212",
+    "propietario": "ROSA ACUÑA DE PENEREY",
+    "direccion": "CR 21 N°24A-195",
+    "paz_salvo": "1995",
+    "recibo": "",
+    "calle": "CRA 2",
+    "libro": "1",
+    "folio": "27"
+  },
+  {
+    "num": "213",
+    "propietario": "DIEGO MENDOZA AHUMADA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 2",
+    "libro": "1",
+    "folio": "27"
+  },
+  {
+    "num": "214",
+    "propietario": "HNOS RODRIGUEZ SABALZA",
+    "direccion": "",
+    "paz_salvo": "2013",
+    "recibo": "C-O-R. 36138",
+    "calle": "CRA 2",
+    "libro": "1",
+    "folio": "27"
+  },
+  {
+    "num": "215",
+    "propietario": "SOCIEDAD SAN JUAN DE DIOS",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 2",
+    "libro": "1",
+    "folio": "27"
+  },
+  {
+    "num": "216",
+    "propietario": "FLIA RUIZ ALMANZA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 2",
+    "libro": "1",
+    "folio": "28"
+  },
+  {
+    "num": "217",
+    "propietario": "MARIA CUENTAS CEPEDA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 2",
+    "libro": "1",
+    "folio": "28"
+  },
+  {
+    "num": "218",
+    "propietario": "FLIA  RODRIGUEZ VIZCAINO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 2",
+    "libro": "1",
+    "folio": "28"
+  },
+  {
+    "num": "219",
+    "propietario": "FLIA URUETA BERDUGO",
+    "direccion": "CL 19 N°16-27",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 2",
+    "libro": "1",
+    "folio": "28"
+  },
+  {
+    "num": "220",
+    "propietario": "FLIA GOMEZ MORALES",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CRA 2",
+    "libro": "1",
+    "folio": "28"
+  },
+  {
+    "num": "221",
+    "propietario": "ALBERTO BARRAZA A.",
+    "direccion": "CL 19 N°9-68",
+    "paz_salvo": "1996",
+    "recibo": "9437",
+    "calle": "CRA 2",
+    "libro": "1",
+    "folio": "28"
+  },
+  {
+    "num": "720",
+    "propietario": "MAGOLA SARMIENTO",
+    "direccion": "CR 14 N°14-19",
+    "paz_salvo": "2000",
+    "recibo": "13796",
+    "calle": "CALLE 7",
+    "libro": "2",
+    "folio": "1"
+  },
+  {
+    "num": "2014",
+    "propietario": "C-O-R.39741",
+    "direccion": "VIII-01/2014",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 7",
+    "libro": "2",
+    "folio": "1"
+  },
+  {
+    "num": "2015",
+    "propietario": "C-O-R.45626",
+    "direccion": "IV-9/2015",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 7",
+    "libro": "2",
+    "folio": "1"
+  },
+  {
+    "num": "2016",
+    "propietario": "C-O-R.52277",
+    "direccion": "XII-30/2016",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 7",
+    "libro": "2",
+    "folio": "1"
+  },
+  {
+    "num": "2017",
+    "propietario": "C-O-R.53032",
+    "direccion": "X-31/2017",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 7",
+    "libro": "2",
+    "folio": "1"
+  },
+  {
+    "num": "721",
+    "propietario": "FLIA MARQUEZ VIZCAINO",
+    "direccion": "CL 15 N°19-42",
+    "paz_salvo": "1998",
+    "recibo": "",
+    "calle": "CALLE 7",
+    "libro": "2",
+    "folio": "1"
+  },
+  {
+    "num": "722",
+    "propietario": "FLIA BLANCO NAVARRO",
+    "direccion": "CL 18 N°14-40",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 7",
+    "libro": "2",
+    "folio": "1"
+  },
+  {
+    "num": "723",
+    "propietario": "DESIDERIO OQUENDO",
+    "direccion": "",
+    "paz_salvo": "2002",
+    "recibo": "M-06894",
+    "calle": "CALLE 7",
+    "libro": "2",
+    "folio": "1"
+  },
+  {
+    "num": "724",
+    "propietario": "FLIA VIZCAINO CERVANTES",
+    "direccion": "CR 21 N°21-03",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 7",
+    "libro": "2",
+    "folio": "1"
+  },
+  {
+    "num": "725",
+    "propietario": "LEOPOLDO PEREZ L.",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 7",
+    "libro": "2",
+    "folio": "1"
+  },
+  {
+    "num": "726",
+    "propietario": "JOSE M. MERCADO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 7",
+    "libro": "2",
+    "folio": "2"
+  },
+  {
+    "num": "727",
+    "propietario": "DIONISIO PEÑA MARTINEZ",
+    "direccion": "CR 14 N°25-03",
+    "paz_salvo": "1990",
+    "recibo": "7685",
+    "calle": "CALLE 7",
+    "libro": "2",
+    "folio": "2"
+  },
+  {
+    "num": "728",
+    "propietario": "MANUELA MENDOZA HIDALGO",
+    "direccion": "",
+    "paz_salvo": "2002",
+    "recibo": "M-04247",
+    "calle": "CALLE 7",
+    "libro": "2",
+    "folio": "2"
+  },
+  {
+    "num": "730",
+    "propietario": "FLIA AHUMADA GOMEZ",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 7",
+    "libro": "2",
+    "folio": "2"
+  },
+  {
+    "num": "731",
+    "propietario": "FLIA TOVAR LOPEZ",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 7",
+    "libro": "2",
+    "folio": "2"
+  },
+  {
+    "num": "732",
+    "propietario": "FLIA MARENCO VERDOOREN",
+    "direccion": "",
+    "paz_salvo": "2000/2004",
+    "recibo": "M-08838",
+    "calle": "CALLE 7",
+    "libro": "2",
+    "folio": "3"
+  },
+  {
+    "num": "733",
+    "propietario": "LINDA ROSA CEPEDA CEPEDA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 7",
+    "libro": "2",
+    "folio": "3"
+  },
+  {
+    "num": "734",
+    "propietario": "FLIA CEPEDA TOVAR",
+    "direccion": "",
+    "paz_salvo": "2016/2017",
+    "recibo": "17010410001966",
+    "calle": "CALLE 7",
+    "libro": "2",
+    "folio": "3"
+  },
+  {
+    "num": "735",
+    "propietario": "JUANA P. CASTILLO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 7",
+    "libro": "2",
+    "folio": "3"
+  },
+  {
+    "num": "736",
+    "propietario": "FRANCISCO GARCIA BERDUGO",
+    "direccion": "",
+    "paz_salvo": "2016",
+    "recibo": "C-O-R.49456",
+    "calle": "CALLE 7",
+    "libro": "2",
+    "folio": "3"
+  },
+  {
+    "num": "737",
+    "propietario": "MARIA ESTRADA CASTRO",
+    "direccion": "CL 27 N°27-05",
+    "paz_salvo": "1996",
+    "recibo": "9451",
+    "calle": "CALLE 7",
+    "libro": "2",
+    "folio": "3"
+  },
+  {
+    "num": "738",
+    "propietario": "NICOLAS ORTEGA AHUMADA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 7",
+    "libro": "2",
+    "folio": "4"
+  },
+  {
+    "num": "739",
+    "propietario": "ELOIZA AGUDELO VISBAL",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 7",
+    "libro": "2",
+    "folio": "4"
+  },
+  {
+    "num": "740",
+    "propietario": "LUIS CABARCAS CHARRIS",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 7",
+    "libro": "2",
+    "folio": "4"
+  },
+  {
+    "num": "741",
+    "propietario": "EVARISTO FADULL ESCORCIA",
+    "direccion": "",
+    "paz_salvo": "2000/2003",
+    "recibo": "M-06983",
+    "calle": "CALLE 7",
+    "libro": "2",
+    "folio": "4"
+  },
+  {
+    "num": "742",
+    "propietario": "FLIA HERNANDEZ CUENTAS",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 7",
+    "libro": "2",
+    "folio": "4"
+  },
+  {
+    "num": "743",
+    "propietario": "NURIS PEÑA SARMIENTO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 7",
+    "libro": "2",
+    "folio": "4"
+  },
+  {
+    "num": "801",
+    "propietario": "BLAS MERCADO OROZCO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 8",
+    "libro": "2",
+    "folio": "5"
+  },
+  {
+    "num": "802",
+    "propietario": "JUAN BERDUGO MERCADO",
+    "direccion": "CL 21 N°10-12",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 8",
+    "libro": "2",
+    "folio": "5"
+  },
+  {
+    "num": "803",
+    "propietario": "FLIA AHUMADA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 8",
+    "libro": "2",
+    "folio": "5"
+  },
+  {
+    "num": "804",
+    "propietario": "FLIA OLMOS PADILLA",
+    "direccion": "CR 19 N°24-141",
+    "paz_salvo": "2014",
+    "recibo": "C-O-R. 40488",
+    "calle": "CALLE 8",
+    "libro": "2",
+    "folio": "5"
+  },
+  {
+    "num": "805",
+    "propietario": "ANA C. DE MERCADO",
+    "direccion": "CL 15 N°19-53",
+    "paz_salvo": "1994",
+    "recibo": "8775",
+    "calle": "CALLE 8",
+    "libro": "2",
+    "folio": "6"
+  },
+  {
+    "num": "806",
+    "propietario": "FLIA CHARRIS",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 8",
+    "libro": "2",
+    "folio": "6"
+  },
+  {
+    "num": "807",
+    "propietario": "FLIA NAVARRO PACHECO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 8",
+    "libro": "2",
+    "folio": "6"
+  },
+  {
+    "num": "808",
+    "propietario": "FLIA CERVANTES",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 8",
+    "libro": "2",
+    "folio": "6"
+  },
+  {
+    "num": "809",
+    "propietario": "FLIA NAVARRO SARMIENTO",
+    "direccion": "CL 23 N°26-155",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 8",
+    "libro": "2",
+    "folio": "6"
+  },
+  {
+    "num": "810",
+    "propietario": "ABEL DAZA BARANDICA",
+    "direccion": "",
+    "paz_salvo": "2014/2017",
+    "recibo": "17010410002560",
+    "calle": "CALLE 8",
+    "libro": "2",
+    "folio": "6"
+  },
+  {
+    "num": "811",
+    "propietario": "FLIA VALENCIA HENRIQUEZ",
+    "direccion": "CL22 N°12-89",
+    "paz_salvo": "2001/2002",
+    "recibo": "M-050011",
+    "calle": "CALLE 8",
+    "libro": "2",
+    "folio": "7"
+  },
+  {
+    "num": "815",
+    "propietario": "FLIA PEÑA AHUMADA",
+    "direccion": "",
+    "paz_salvo": "2016/2017",
+    "recibo": "17010410000868",
+    "calle": "CALLE 8",
+    "libro": "2",
+    "folio": "7"
+  },
+  {
+    "num": "816",
+    "propietario": "LUCIANO CHARRIS DE LOS REYES",
+    "direccion": "CR 19 N°24-79",
+    "paz_salvo": "2001/2002",
+    "recibo": "M-04812",
+    "calle": "CALLE 8",
+    "libro": "2",
+    "folio": "7"
+  },
+  {
+    "num": "2008",
+    "propietario": "C-CAS17592",
+    "direccion": "II-11/2008",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 8",
+    "libro": "2",
+    "folio": "7"
+  },
+  {
+    "num": "817",
+    "propietario": "RAFAEL A. BERDUGO C.",
+    "direccion": "CL 16 N°18-23",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 8",
+    "libro": "2",
+    "folio": "8"
+  },
+  {
+    "num": "818",
+    "propietario": "JULIAN LECHUGA DE LOS REYES",
+    "direccion": "CR 19 N°14-73",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 8",
+    "libro": "2",
+    "folio": "8"
+  },
+  {
+    "num": "819",
+    "propietario": "VICENTE ANTONIO LLINAS HERNANDEZ",
+    "direccion": "",
+    "paz_salvo": "2016",
+    "recibo": "C-O-R. 49945",
+    "calle": "CALLE 8",
+    "libro": "2",
+    "folio": "8"
+  },
+  {
+    "num": "820",
+    "propietario": "ADELA P. DE GOMEZ Y MARIA PEÑA ESTRADA",
+    "direccion": "CL 18 N°16-28",
+    "paz_salvo": "1996",
+    "recibo": "",
+    "calle": "CALLE 8",
+    "libro": "2",
+    "folio": "8"
+  },
+  {
+    "num": "821",
+    "propietario": "FLIA MERCADO LEON",
+    "direccion": "CL 19 N°16-89",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 8",
+    "libro": "2",
+    "folio": "8"
+  },
+  {
+    "num": "822",
+    "propietario": "FLIA VIZCAINO PEÑA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 8",
+    "libro": "2",
+    "folio": "8"
+  },
+  {
+    "num": "823",
+    "propietario": "FLIA AHUMADA CERVANTES Y/O MANUEL",
+    "direccion": "",
+    "paz_salvo": "1998/2002",
+    "recibo": "M-09502",
+    "calle": "CALLE 8",
+    "libro": "2",
+    "folio": "9"
+  },
+  {
+    "num": "824",
+    "propietario": "MARIA NAVARRO BERDUGO",
+    "direccion": "CL 6 N°14B-15",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 8",
+    "libro": "2",
+    "folio": "9"
+  },
+  {
+    "num": "825",
+    "propietario": "GRACIELA MENDOZA DE H.",
+    "direccion": "CL 20 N°10A-188",
+    "paz_salvo": "2000/2002",
+    "recibo": "M-06981",
+    "calle": "CALLE 8",
+    "libro": "2",
+    "folio": "9"
+  },
+  {
+    "num": "826",
+    "propietario": "FLIA VERGARA ZAMBRANO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 8",
+    "libro": "2",
+    "folio": "9"
+  },
+  {
+    "num": "827",
+    "propietario": "GIOMAR HENRIQUEZ CEPEDA",
+    "direccion": "CR 21 N°24-18",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 8",
+    "libro": "2",
+    "folio": "9"
+  },
+  {
+    "num": "828",
+    "propietario": "PEDRO PASTOR PRIMO CASTRO",
+    "direccion": "CL 22 N°27-24",
+    "paz_salvo": "2008",
+    "recibo": "17885",
+    "calle": "CALLE 8",
+    "libro": "2",
+    "folio": "9"
+  },
+  {
+    "num": "829",
+    "propietario": "JORGE RODRIGUEZ S.",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 8",
+    "libro": "2",
+    "folio": "10"
+  },
+  {
+    "num": "830",
+    "propietario": "FLIA ALTAMAR ZARATE",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 8",
+    "libro": "2",
+    "folio": "10"
+  },
+  {
+    "num": "830A",
+    "propietario": "LOLIMAR LENGUA ZAMBRANO, vendio a MAR",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 8",
+    "libro": "2",
+    "folio": "10"
+  },
+  {
+    "num": "831",
+    "propietario": "FLIA RAMOS CEPEDA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 8",
+    "libro": "2",
+    "folio": "10"
+  },
+  {
+    "num": "832",
+    "propietario": "FLIA AHUMADA SARMIENTO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 8",
+    "libro": "2",
+    "folio": "10"
+  },
+  {
+    "num": "833",
+    "propietario": "JOSE A. HERNANDEZ Y FLIA",
+    "direccion": "CL 27 N°7B-24",
+    "paz_salvo": "2000/2002",
+    "recibo": "M-08400",
+    "calle": "CALLE 8",
+    "libro": "2",
+    "folio": "10"
+  },
+  {
+    "num": "834",
+    "propietario": "FLIA LUQUEZ Y FLIA CERVANTES",
+    "direccion": "CL 19 N°24-142",
+    "paz_salvo": "2000/2002",
+    "recibo": "M-09246",
+    "calle": "CALLE 8",
+    "libro": "2",
+    "folio": "10"
+  },
+  {
+    "num": "835",
+    "propietario": "FLIA NAVARRO GOMEZ",
+    "direccion": "CL 22A N°9-115",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 8",
+    "libro": "2",
+    "folio": "11"
+  },
+  {
+    "num": "836",
+    "propietario": "FLIA GALINDO SARMIENTO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 8",
+    "libro": "2",
+    "folio": "11"
+  },
+  {
+    "num": "837",
+    "propietario": "MEDARDO CEPEDA GOMEZ",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 8",
+    "libro": "2",
+    "folio": "11"
+  },
+  {
+    "num": "838",
+    "propietario": "CLARA DE LOS REYES DE LA HOZ",
+    "direccion": "",
+    "paz_salvo": "2016",
+    "recibo": "C-O-R. 50800",
+    "calle": "CALLE 8",
+    "libro": "2",
+    "folio": "11"
+  },
+  {
+    "num": "839",
+    "propietario": "FLIA FIGUEROA POLO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 8",
+    "libro": "2",
+    "folio": "11"
+  },
+  {
+    "num": "840",
+    "propietario": "FLIA MORALES MENDOZA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 8",
+    "libro": "2",
+    "folio": "11"
+  },
+  {
+    "num": "841",
+    "propietario": "HERMANAS LLINAS RUIZ",
+    "direccion": "CL 27B N°13-51",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 8",
+    "libro": "2",
+    "folio": "12"
+  },
+  {
+    "num": "842",
+    "propietario": "HERMINIA VDA DE PACHECO",
+    "direccion": "CR 16C N°27G-15",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 8",
+    "libro": "2",
+    "folio": "12"
+  },
+  {
+    "num": "843",
+    "propietario": "FLIA CHAMS CURE",
+    "direccion": "CL 21 N°18-28",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 8",
+    "libro": "2",
+    "folio": "12"
+  },
+  {
+    "num": "843A",
+    "propietario": "YADIRA PACHECO GARCIA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 8",
+    "libro": "2",
+    "folio": "12"
+  },
+  {
+    "num": "844",
+    "propietario": "FLIA MANOTAS MENDOZA",
+    "direccion": "CR 17 N°16-21",
+    "paz_salvo": "2000/2002",
+    "recibo": "M-06440",
+    "calle": "CALLE 8",
+    "libro": "2",
+    "folio": "12"
+  },
+  {
+    "num": "845",
+    "propietario": "JESUS Ma. RODRIGUEZ A.",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 8",
+    "libro": "2",
+    "folio": "12"
+  },
+  {
+    "num": "901",
+    "propietario": "FLIA OQUENDO DE LA ROSA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 9",
+    "libro": "2",
+    "folio": "13"
+  },
+  {
+    "num": "902",
+    "propietario": "FLIA DE LA HOZ MENDOZA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 9",
+    "libro": "2",
+    "folio": "13"
+  },
+  {
+    "num": "903",
+    "propietario": "FLIA GARCIA BORJA",
+    "direccion": "CL 10 N°16B-53",
+    "paz_salvo": "2014",
+    "recibo": "C-O-R.42100",
+    "calle": "CALLE 9",
+    "libro": "2",
+    "folio": "13"
+  },
+  {
+    "num": "904",
+    "propietario": "ISMAEL GUERRERO OROZCO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 9",
+    "libro": "2",
+    "folio": "13"
+  },
+  {
+    "num": "906",
+    "propietario": "FLIA RODRIGUEZ CASTRO",
+    "direccion": "CL 18 N°7-41",
+    "paz_salvo": "2006",
+    "recibo": "CM 14194",
+    "calle": "CALLE 9",
+    "libro": "2",
+    "folio": "13"
+  },
+  {
+    "num": "907",
+    "propietario": "JUANA HERNANDEZ DE PADILLA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 9",
+    "libro": "2",
+    "folio": "14"
+  },
+  {
+    "num": "908",
+    "propietario": "MIGUEL CASTRO Y RAMONA CASTILLO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 9",
+    "libro": "2",
+    "folio": "14"
+  },
+  {
+    "num": "910",
+    "propietario": "FLIA CASTRO CASTRO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 9",
+    "libro": "2",
+    "folio": "14"
+  },
+  {
+    "num": "911",
+    "propietario": "FLIA SABALZA CASTILLO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 9",
+    "libro": "2",
+    "folio": "14"
+  },
+  {
+    "num": "913",
+    "propietario": "EUCLIDES ARIZA YEPES",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 9",
+    "libro": "2",
+    "folio": "15"
+  },
+  {
+    "num": "914",
+    "propietario": "JOSE V. PALMA OLIVARES",
+    "direccion": "CL 17 N°34-43",
+    "paz_salvo": "2010",
+    "recibo": "",
+    "calle": "CALLE 9",
+    "libro": "2",
+    "folio": "15"
+  },
+  {
+    "num": "915",
+    "propietario": "VANESA HERNANDEZ PELAEZ",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 9",
+    "libro": "2",
+    "folio": "15"
+  },
+  {
+    "num": "918",
+    "propietario": "FLIA CASTRO SARMIENTO",
+    "direccion": "CR 15 N°17-70",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 9",
+    "libro": "2",
+    "folio": "15"
+  },
+  {
+    "num": "920",
+    "propietario": "PABLO ESTRADA CH.",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 9",
+    "libro": "2",
+    "folio": "16"
+  },
+  {
+    "num": "921",
+    "propietario": "FLIA ESCORCIA GOMEZ",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 9",
+    "libro": "2",
+    "folio": "16"
+  },
+  {
+    "num": "922",
+    "propietario": "LUZ MARINA CUENTA MARTINEZ",
+    "direccion": "CL 24 N°12A-20",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 9",
+    "libro": "2",
+    "folio": "16"
+  },
+  {
+    "num": "923",
+    "propietario": "RAFAEL MERCADO C.",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 9",
+    "libro": "2",
+    "folio": "16"
+  },
+  {
+    "num": "928",
+    "propietario": "FLIA CASTILLO CUENTAS",
+    "direccion": "CL 24 N°16-15",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 9",
+    "libro": "2",
+    "folio": "17"
+  },
+  {
+    "num": "932",
+    "propietario": "HERMANOS DITA LEJARDE",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 18",
+    "libro": "2",
+    "folio": "18"
+  },
+  {
+    "num": "935",
+    "propietario": "LUIS C. DONADO MIRANDA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 18",
+    "libro": "2",
+    "folio": "18"
+  },
+  {
+    "num": "936",
+    "propietario": "JAQUELIN ESCORCIA PALACIO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 18",
+    "libro": "2",
+    "folio": "18"
+  },
+  {
+    "num": "938",
+    "propietario": "GERMAN VIZCAINO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 9",
+    "libro": "2",
+    "folio": "19"
+  },
+  {
+    "num": "940",
+    "propietario": "GABRIEL MERCADO GOMEZ",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 9",
+    "libro": "2",
+    "folio": "19"
+  },
+  {
+    "num": "941",
+    "propietario": "PEDRO M. REYES F.",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 9",
+    "libro": "2",
+    "folio": "19"
+  },
+  {
+    "num": "946",
+    "propietario": "ISABEL CASTRO MORALES",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 9",
+    "libro": "2",
+    "folio": "20"
+  },
+  {
+    "num": "948",
+    "propietario": "FABIAN SANJUAN FONSECA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 9",
+    "libro": "2",
+    "folio": "20"
+  },
+  {
+    "num": "949",
+    "propietario": "MARIANA NAVARRO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 9",
+    "libro": "2",
+    "folio": "21"
+  },
+  {
+    "num": "950",
+    "propietario": "ROBERTO HERRERA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 9",
+    "libro": "2",
+    "folio": "21"
+  },
+  {
+    "num": "951",
+    "propietario": "ROBERTO NAVARRO TERAN",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 9",
+    "libro": "2",
+    "folio": "21"
+  },
+  {
+    "num": "953",
+    "propietario": "LETICIA DITTA MENDOZA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 9",
+    "libro": "2",
+    "folio": "21"
+  },
+  {
+    "num": "955",
+    "propietario": "CLEOTILDA BULA BULA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 9",
+    "libro": "2",
+    "folio": "22"
+  },
+  {
+    "num": "956",
+    "propietario": "ANA BERDUGO CERVANTES",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 9",
+    "libro": "2",
+    "folio": "22"
+  },
+  {
+    "num": "957",
+    "propietario": "ANA BERDUGO CERVANTES",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 9",
+    "libro": "2",
+    "folio": "22"
+  },
+  {
+    "num": "958",
+    "propietario": "AGRIPINA NAVARRO E.",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 9",
+    "libro": "2",
+    "folio": "22"
+  },
+  {
+    "num": "959",
+    "propietario": "HERMANOS TEHERAN GUTIERREZ",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 9",
+    "libro": "2",
+    "folio": "22"
+  },
+  {
+    "num": "960",
+    "propietario": "MARIA L. AHUMADA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 9",
+    "libro": "2",
+    "folio": "22"
+  },
+  {
+    "num": "961",
+    "propietario": "FRANCISCA LUQUEZ",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 9",
+    "libro": "2",
+    "folio": "23"
+  },
+  {
+    "num": "963",
+    "propietario": "MERCEDES CALVO S.",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 9",
+    "libro": "2",
+    "folio": "23"
+  },
+  {
+    "num": "964",
+    "propietario": "LEDYS ZAMBRANO BERDUGO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 9",
+    "libro": "2",
+    "folio": "23"
+  },
+  {
+    "num": "966",
+    "propietario": "CARLOS DIAZ PATIÑO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 9",
+    "libro": "2",
+    "folio": "23"
+  },
+  {
+    "num": "969",
+    "propietario": "JESUS M. PEÑA GAMERO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 9",
+    "libro": "2",
+    "folio": "24"
+  },
+  {
+    "num": "973",
+    "propietario": "ELENA MARQUEZ CERVANTES",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 9",
+    "libro": "2",
+    "folio": "25"
+  },
+  {
+    "num": "1001",
+    "propietario": "NURYS E. HERRERA AVILA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 10",
+    "libro": "2",
+    "folio": "25"
+  },
+  {
+    "num": "1002",
+    "propietario": "BELISARIO DE LOS REYES DE LA HOZ",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 10",
+    "libro": "2",
+    "folio": "25"
+  },
+  {
+    "num": "1003",
+    "propietario": "FLIA GOMEZ MENDOZA",
+    "direccion": "",
+    "paz_salvo": "2016/2017",
+    "recibo": "17010410003428",
+    "calle": "CALLE 10",
+    "libro": "2",
+    "folio": "25"
+  },
+  {
+    "num": "1004",
+    "propietario": "FRANCISCO BERDUGO MEZA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 10",
+    "libro": "2",
+    "folio": "26"
+  },
+  {
+    "num": "1005",
+    "propietario": "SIXTA DE LOS REYES",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 10",
+    "libro": "2",
+    "folio": "26"
+  },
+  {
+    "num": "1006",
+    "propietario": "RAFAEL OSORIO UCROS",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 10",
+    "libro": "2",
+    "folio": "26"
+  },
+  {
+    "num": "1007",
+    "propietario": "LUIS GARCIA BERDUGO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 10",
+    "libro": "2",
+    "folio": "26"
+  },
+  {
+    "num": "1009",
+    "propietario": "FLIA CHARRIS CABARCAS",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 10",
+    "libro": "2",
+    "folio": "26"
+  },
+  {
+    "num": "1010",
+    "propietario": "FLIA ARAUJO CARRILLO",
+    "direccion": "CL 25 N°9-25",
+    "paz_salvo": "2004",
+    "recibo": "8260",
+    "calle": "CALLE 10",
+    "libro": "2",
+    "folio": "27"
+  },
+  {
+    "num": "1011",
+    "propietario": "MIGUEL A. ESCORCIA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 10",
+    "libro": "2",
+    "folio": "27"
+  },
+  {
+    "num": "1610",
+    "propietario": "MIGUEL A. NAVARRO MANDOZA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "1"
+  },
+  {
+    "num": "1611",
+    "propietario": "FLIA AREVALO MENDOZA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "1"
+  },
+  {
+    "num": "1612",
+    "propietario": "ENA LUZ SOLANO MARTINEZ",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "1"
+  },
+  {
+    "num": "1613",
+    "propietario": "FRANCISCO HERNANDEZ R.",
+    "direccion": "",
+    "paz_salvo": "2004",
+    "recibo": "8106",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "1"
+  },
+  {
+    "num": "1614",
+    "propietario": "GUSTAVO A. GOMEZ R.",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "1"
+  },
+  {
+    "num": "1615",
+    "propietario": "GUSTAVO A. GOMEZ R.",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "1"
+  },
+  {
+    "num": "1616",
+    "propietario": "FLIA CASTRO CASTRO",
+    "direccion": "CR 22 N°27-41",
+    "paz_salvo": "1996",
+    "recibo": "9470",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "2"
+  },
+  {
+    "num": "1617",
+    "propietario": "ARCADIO CERA CERVANTES",
+    "direccion": "CL 43 N°14-48",
+    "paz_salvo": "2014",
+    "recibo": "C-O-R. 42294",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "2"
+  },
+  {
+    "num": "1618",
+    "propietario": "JULIO AVILA AVILA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "2"
+  },
+  {
+    "num": "1619",
+    "propietario": "WILLIAM A. LUQUE C.",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "2"
+  },
+  {
+    "num": "1620",
+    "propietario": "FELIPE VILORIA MERCADO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "2"
+  },
+  {
+    "num": "1621",
+    "propietario": "ANICETO OLMOS B.",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "2"
+  },
+  {
+    "num": "1622",
+    "propietario": "INES A. DE ESCORCIA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "3"
+  },
+  {
+    "num": "1623",
+    "propietario": "FLIA GUTIERREZ CABARCAS",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "3"
+  },
+  {
+    "num": "1624",
+    "propietario": "FLIA VARGAS VILORIA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "3"
+  },
+  {
+    "num": "1625",
+    "propietario": "MARIA PACHECO",
+    "direccion": "",
+    "paz_salvo": "2004",
+    "recibo": "8173",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "3"
+  },
+  {
+    "num": "1626",
+    "propietario": "JUAN CARRILLO BORRERO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "3"
+  },
+  {
+    "num": "1627",
+    "propietario": "TEODORO MEZA C.",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "3"
+  },
+  {
+    "num": "1628",
+    "propietario": "ROQUE J. ACUÑA C.",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "4"
+  },
+  {
+    "num": "1629",
+    "propietario": "GEORGINA PATIÑO GARCIA",
+    "direccion": "CR 20 N°13-51",
+    "paz_salvo": "2000/2001",
+    "recibo": "M-07402",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "4"
+  },
+  {
+    "num": "2014",
+    "propietario": "C-O-R. 44061",
+    "direccion": "XII-30/2014",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "4"
+  },
+  {
+    "num": "1630",
+    "propietario": "MARIA C. NAVARRO DE OLMOS",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "4"
+  },
+  {
+    "num": "1631",
+    "propietario": "PEDRO P. MORALES PEÑA",
+    "direccion": "CR 28B N°20-38",
+    "paz_salvo": "1998",
+    "recibo": "10003",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "4"
+  },
+  {
+    "num": "1632",
+    "propietario": "FLIA CORONADO MARTINEZ",
+    "direccion": "",
+    "paz_salvo": "2013",
+    "recibo": "C-O-R.. 37192",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "4"
+  },
+  {
+    "num": "1633",
+    "propietario": "ANTONIO COBA LLERAS",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "4"
+  },
+  {
+    "num": "1634",
+    "propietario": "FLIA SOLANO ANAYA",
+    "direccion": "",
+    "paz_salvo": "2008",
+    "recibo": "CMIRA 19030",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "5"
+  },
+  {
+    "num": "1635",
+    "propietario": "FLIA ALVAREZ PACHECO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "5"
+  },
+  {
+    "num": "1636",
+    "propietario": "FLIA DITTA RAMIREZ",
+    "direccion": "CL 10A N°16B-86",
+    "paz_salvo": "1999/2003",
+    "recibo": "M-10482",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "5"
+  },
+  {
+    "num": "1637",
+    "propietario": "JOSE OLMOS MORALES",
+    "direccion": "CL 22A N°9-115",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "5"
+  },
+  {
+    "num": "1638",
+    "propietario": "FLIA AHUMADA CAICEDO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "5"
+  },
+  {
+    "num": "1639",
+    "propietario": "SOCIEDAD LA CANDELARIA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "5"
+  },
+  {
+    "num": "1640",
+    "propietario": "HELIODORO HERRERA RANGEL",
+    "direccion": "Finca El Vigia",
+    "paz_salvo": "2002",
+    "recibo": "m-05338",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "6"
+  },
+  {
+    "num": "1640B",
+    "propietario": "PRISCA GUTIERREZ CERVANTES",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "6"
+  },
+  {
+    "num": "1641",
+    "propietario": "FLIA SOÑETH GOMEZ",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "6"
+  },
+  {
+    "num": "1642",
+    "propietario": "CARMEN NAVARRO HERNANDEZ Y",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "6"
+  },
+  {
+    "num": "1643",
+    "propietario": "GASPAR MANOTAS ARIZA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "6"
+  },
+  {
+    "num": "1644",
+    "propietario": "SANTIAGO MORALES AHUMADA",
+    "direccion": "CR 9 N°20C-33",
+    "paz_salvo": "1996",
+    "recibo": "9428",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "6"
+  },
+  {
+    "num": "1645",
+    "propietario": "HUGO ESTRADA ALTAMAR",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "6"
+  },
+  {
+    "num": "1646",
+    "propietario": "JOSE T. POLO GONZALEZ",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "7"
+  },
+  {
+    "num": "1647",
+    "propietario": "CAROLINA A. DE LUQUE",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "7"
+  },
+  {
+    "num": "1648",
+    "propietario": "GERARDO LECHUGA AREVALO",
+    "direccion": "",
+    "paz_salvo": "2001/2002",
+    "recibo": "M-08143",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "7"
+  },
+  {
+    "num": "1649",
+    "propietario": "LEONOR PEÑA C.",
+    "direccion": "",
+    "paz_salvo": "2002/2004",
+    "recibo": "M-08463",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "7"
+  },
+  {
+    "num": "1650",
+    "propietario": "FLIA GOMEZ ESCORCIA",
+    "direccion": "",
+    "paz_salvo": "2012/2016",
+    "recibo": "16010410000421",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "7"
+  },
+  {
+    "num": "1651",
+    "propietario": "WILLIAM NAVARRO OSPINO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "7"
+  },
+  {
+    "num": "1652",
+    "propietario": "JUANA MARIA CASTILLO ESCORCIA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "8"
+  },
+  {
+    "num": "1653",
+    "propietario": "MARTHA DEL S. CASTILLO DE AHUMA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "8"
+  },
+  {
+    "num": "1654",
+    "propietario": "FLIA CORONADO PADILLA",
+    "direccion": "CL 10 N°19-98",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "8"
+  },
+  {
+    "num": "1655",
+    "propietario": "ANGELICA PADILLA LECHUGA",
+    "direccion": "",
+    "paz_salvo": "2002",
+    "recibo": "M-05346",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "8"
+  },
+  {
+    "num": "2014",
+    "propietario": "C-O-R. 40341",
+    "direccion": "IV-3/2014",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 16",
+    "libro": "3",
+    "folio": "8"
+  },
+  {
+    "num": "1701",
+    "propietario": "FLIA LECHUGA NAVARRO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "8"
+  },
+  {
+    "num": "1702",
+    "propietario": "FLIA URIBE MARQUEZ",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "9"
+  },
+  {
+    "num": "1703",
+    "propietario": "FLIA CORONADO LUQUEZ",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "9"
+  },
+  {
+    "num": "1704",
+    "propietario": "FLIA ACUÑA REYES",
+    "direccion": "CL 20 N°19-20",
+    "paz_salvo": "2002",
+    "recibo": "M-02050",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "9"
+  },
+  {
+    "num": "1705",
+    "propietario": "FLIA BILBAO ALBOR",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "9"
+  },
+  {
+    "num": "1706",
+    "propietario": "AMPARO VIZCAINO VDA DE LOPEZ",
+    "direccion": "",
+    "paz_salvo": "2002",
+    "recibo": "M-10044",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "9"
+  },
+  {
+    "num": "1707",
+    "propietario": "NESTOR GOMEZ CABARCAS Y CALIXTO",
+    "direccion": "",
+    "paz_salvo": "2005",
+    "recibo": "11223",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "9"
+  },
+  {
+    "num": "1708",
+    "propietario": "CIELO ESTHER MAZA DE BILBAO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "10"
+  },
+  {
+    "num": "1708A",
+    "propietario": "NAYIBE MARCHENA LUQUE",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "10"
+  },
+  {
+    "num": "1709",
+    "propietario": "FLIA BARROS AHUMADA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "10"
+  },
+  {
+    "num": "1710",
+    "propietario": "FLIA ANAYA COBO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "10"
+  },
+  {
+    "num": "1710A",
+    "propietario": "ESPERANZA ANAYA COBO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "10"
+  },
+  {
+    "num": "1711",
+    "propietario": "ADOLFO SOLANO O.",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "10"
+  },
+  {
+    "num": "1712",
+    "propietario": "MARGOTH PEÑA DE PEÑA",
+    "direccion": "",
+    "paz_salvo": "1999/2002",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "10"
+  },
+  {
+    "num": "1713",
+    "propietario": "FLIA CASTRO BARRAZA",
+    "direccion": "CL 12 N°12-46",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "10"
+  },
+  {
+    "num": "1714",
+    "propietario": "FLIA CASTRO ESCORCIA",
+    "direccion": "CR 4 N°",
+    "paz_salvo": "2013/2016",
+    "recibo": "C-O-R. 52155",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "11"
+  },
+  {
+    "num": "1715",
+    "propietario": "AURA SARMIENTO JIMENEZ",
+    "direccion": "CL 21 N°24-106",
+    "paz_salvo": "2005",
+    "recibo": "9764",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "11"
+  },
+  {
+    "num": "1716",
+    "propietario": "FLIA GOMEZ MENDOZA",
+    "direccion": "CR 26 N°13-65",
+    "paz_salvo": "2015",
+    "recibo": "C-O-R.45471",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "11"
+  },
+  {
+    "num": "1717",
+    "propietario": "VILMA MERCADO GUTIERREZ",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "11"
+  },
+  {
+    "num": "1718",
+    "propietario": "GABRIEL MERCADO CORONADO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "11"
+  },
+  {
+    "num": "1719",
+    "propietario": "FLIA SARMIENTO GOMEZ",
+    "direccion": "CR 20 N°14-104",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "11"
+  },
+  {
+    "num": "1720",
+    "propietario": "JOSE DE LOS SANTOS GOMEZ A.",
+    "direccion": "CL 24 N°12A-89",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "12"
+  },
+  {
+    "num": "1721",
+    "propietario": "DANILO SALAS CORONADO",
+    "direccion": "",
+    "paz_salvo": "2014",
+    "recibo": "C-O-R. 42032",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "12"
+  },
+  {
+    "num": "1722",
+    "propietario": "FLIA RUIZ FIGUEROA",
+    "direccion": "CR 27 N°32-27",
+    "paz_salvo": "1997",
+    "recibo": "9487",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "12"
+  },
+  {
+    "num": "1723",
+    "propietario": "JOSE M. CUENTAS T.",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "12"
+  },
+  {
+    "num": "1724",
+    "propietario": "JACINTA SAMIENTO A.",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "12"
+  },
+  {
+    "num": "1725",
+    "propietario": "CARLOS VASILEF MARQUEZ",
+    "direccion": "CL 22 N°13-119",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "12"
+  },
+  {
+    "num": "1726",
+    "propietario": "FLIA REBOLLEDO ORTEGA",
+    "direccion": "",
+    "paz_salvo": "2004",
+    "recibo": "5912",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "13"
+  },
+  {
+    "num": "1727",
+    "propietario": "RAFAEL MATTOS OLMOS",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "13"
+  },
+  {
+    "num": "1728",
+    "propietario": "ALFONSO NIÑO ESCORCIA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "13"
+  },
+  {
+    "num": "1729",
+    "propietario": "PASTOR SOLANO OLMOS",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "13"
+  },
+  {
+    "num": "1730",
+    "propietario": "ISMAEL CEPEDA TERAN",
+    "direccion": "CR 16A N°24-",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "13"
+  },
+  {
+    "num": "1731",
+    "propietario": "MAGOLA PATIÑO VDA DE DIAZ",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "13"
+  },
+  {
+    "num": "1732",
+    "propietario": "YOVANIS SOLANO BERDUGO",
+    "direccion": "CL 11 N°16-15",
+    "paz_salvo": "2012/2016",
+    "recibo": "C-O-R. 50501",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "14"
+  },
+  {
+    "num": "1734",
+    "propietario": "MERCEDES GUTIERREZ B.",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "14"
+  },
+  {
+    "num": "1735",
+    "propietario": "ANTONIO  MUÑOZ ESCORCIA",
+    "direccion": "CL 16 N°14-69",
+    "paz_salvo": "1997",
+    "recibo": "9575",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "14"
+  },
+  {
+    "num": "1736",
+    "propietario": "FLIA ARIZA GUTIERREZ",
+    "direccion": "CL 12 N°29H-26",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "14"
+  },
+  {
+    "num": "1738",
+    "propietario": "ALEJANDRO ACUÑA CASTRO",
+    "direccion": "",
+    "paz_salvo": "ABONO",
+    "recibo": "M-05486",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "15"
+  },
+  {
+    "num": "1740",
+    "propietario": "DIANA PONTON MARTINEZ",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "15"
+  },
+  {
+    "num": "1741",
+    "propietario": "FLIA SARMIENTO MERCADO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "15"
+  },
+  {
+    "num": "1742",
+    "propietario": "ERNESTA MORALES SALAS",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "15"
+  },
+  {
+    "num": "1743",
+    "propietario": "TOMAS MERCADO MENDOZA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "15"
+  },
+  {
+    "num": "1744",
+    "propietario": "GERORAMYS PULIDO PALMA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "16"
+  },
+  {
+    "num": "1745",
+    "propietario": "MIGUEL A. OROZCO C.",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "16"
+  },
+  {
+    "num": "1746",
+    "propietario": "MANUEL TERAN BERMEJO",
+    "direccion": "CL 16 Nº9-70",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "16"
+  },
+  {
+    "num": "1747",
+    "propietario": "FLIA MATTOS GUTIERREZ",
+    "direccion": "CL 27 Nº14-14",
+    "paz_salvo": "2000/2001",
+    "recibo": "M-02788",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "16"
+  },
+  {
+    "num": "1748",
+    "propietario": "FLIA MATTOS GUTIERREZ",
+    "direccion": "CL 27 Nº14-14",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "16"
+  },
+  {
+    "num": "1749",
+    "propietario": "FLIA GUTIERREZ SANTIAGO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "16"
+  },
+  {
+    "num": "1750",
+    "propietario": "FLIA ESTRADA PATIÑO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "17"
+  },
+  {
+    "num": "1751",
+    "propietario": "DANIEL ACEVEDO Z.",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "17"
+  },
+  {
+    "num": "1752",
+    "propietario": "MANUEL J VIZCAINO CUENTAS",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "17"
+  },
+  {
+    "num": "1753",
+    "propietario": "FLIA CHARRIS SALAS",
+    "direccion": "CL 25 Nº19-25",
+    "paz_salvo": "2009",
+    "recibo": "C/P 21047",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "17"
+  },
+  {
+    "num": "1754",
+    "propietario": "FLIA PEÑA CUENTAS",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "17"
+  },
+  {
+    "num": "1755",
+    "propietario": "AMADO RODRIGUEZ",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "17"
+  },
+  {
+    "num": "1756",
+    "propietario": "CESAR PACHECO RUA",
+    "direccion": "",
+    "paz_salvo": "2001/2002",
+    "recibo": "M-06536",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "18"
+  },
+  {
+    "num": "1801",
+    "propietario": "MIGUEL A. BERDUGO S.",
+    "direccion": "CL 22 Nº10-79",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 18",
+    "libro": "3",
+    "folio": "18"
+  },
+  {
+    "num": "1802",
+    "propietario": "FLIA AHUMADA CORONADO",
+    "direccion": "",
+    "paz_salvo": "1992/1994",
+    "recibo": "57770",
+    "calle": "CALLE 18",
+    "libro": "3",
+    "folio": "18"
+  },
+  {
+    "num": "1803",
+    "propietario": "LUISA M. MENDOZA",
+    "direccion": "CL 16 Nº",
+    "paz_salvo": "2012",
+    "recibo": "C-O-R. 32913",
+    "calle": "CALLE 18",
+    "libro": "3",
+    "folio": "18"
+  },
+  {
+    "num": "1804",
+    "propietario": "FLIA MANOTAS MACHACON",
+    "direccion": "CL 26A Nº22B-26",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 18",
+    "libro": "3",
+    "folio": "18"
+  },
+  {
+    "num": "1805",
+    "propietario": "FLIA MANOTAS MACHACON",
+    "direccion": "CL 26A Nº22B-26",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "19"
+  },
+  {
+    "num": "1806",
+    "propietario": "FLIA TAPIAS MACHACON",
+    "direccion": "CR 16 Nº27C-241",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "19"
+  },
+  {
+    "num": "1807",
+    "propietario": "FLIA GOMEZ FERNANDEZ",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "19"
+  },
+  {
+    "num": "1808",
+    "propietario": "TERESA FONTALVO CASTRO",
+    "direccion": "",
+    "paz_salvo": "1999/2000",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "19"
+  },
+  {
+    "num": "1808A",
+    "propietario": "ANDREA BOLAÑO SUAREZY JAIRO CABE",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "19"
+  },
+  {
+    "num": "1809",
+    "propietario": "FLIA OLMOS POLO",
+    "direccion": "",
+    "paz_salvo": "2002",
+    "recibo": "M-04121",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "19"
+  },
+  {
+    "num": "1810",
+    "propietario": "FLIA RIPOLL ALVAREZ",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "19"
+  },
+  {
+    "num": "1811",
+    "propietario": "MARIA SANTIAGO DE LA HOZ",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 18",
+    "libro": "3",
+    "folio": "20"
+  },
+  {
+    "num": "1812",
+    "propietario": "FLIA CANTILLO PATIÑO",
+    "direccion": "CL 14 Nº",
+    "paz_salvo": "",
+    "recibo": "9890",
+    "calle": "CALLE 18",
+    "libro": "3",
+    "folio": "20"
+  },
+  {
+    "num": "1813",
+    "propietario": "EVA ISABEL PADILLA CORONADO",
+    "direccion": "CR 21 Nº20-04",
+    "paz_salvo": "2016/2017",
+    "recibo": "17010410001852",
+    "calle": "CALLE 18",
+    "libro": "3",
+    "folio": "20"
+  },
+  {
+    "num": "1814",
+    "propietario": "ELOY GOMEZ ESCORCIA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 18",
+    "libro": "3",
+    "folio": "20"
+  },
+  {
+    "num": "1815",
+    "propietario": "JACINTO MERCADO CERVANTES",
+    "direccion": "CR 22 Nº26-38",
+    "paz_salvo": "1999/2001",
+    "recibo": "M-02061",
+    "calle": "CALLE 18",
+    "libro": "3",
+    "folio": "20"
+  },
+  {
+    "num": "1816",
+    "propietario": "FLIA BARRAZA MORALES",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 18",
+    "libro": "3",
+    "folio": "20"
+  },
+  {
+    "num": "1817",
+    "propietario": "SINDICATO OBRERO Y AGRICULTOR DE",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "21"
+  },
+  {
+    "num": "1817A",
+    "propietario": "JOSE Mª SANJUAN ANDRADE",
+    "direccion": "CL 14 Nº14-05",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "21"
+  },
+  {
+    "num": "1818",
+    "propietario": "FAUSTO GONZALEZ BETTS",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "21"
+  },
+  {
+    "num": "1819",
+    "propietario": "FLIA ANGULO PEREZ",
+    "direccion": "",
+    "paz_salvo": "2012/2016",
+    "recibo": "C-O-R. 48611",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "21"
+  },
+  {
+    "num": "1820",
+    "propietario": "LEONIDAS CUENTAS DE LA HOZ",
+    "direccion": "",
+    "paz_salvo": "2000",
+    "recibo": "2947",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "21"
+  },
+  {
+    "num": "1821",
+    "propietario": "JUANA CABARCAS HIDALGO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "21"
+  },
+  {
+    "num": "1822",
+    "propietario": "FLIA PACHECO SALAS",
+    "direccion": "CL 13 Nº11-112",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "21"
+  },
+  {
+    "num": "1822A",
+    "propietario": "ANTONIO PACHECO HERRERA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 17",
+    "libro": "3",
+    "folio": "21"
+  },
+  {
+    "num": "1823",
+    "propietario": "ROSA MARQUEZ DE PERTUZ",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 18",
+    "libro": "3",
+    "folio": "22"
+  },
+  {
+    "num": "1824",
+    "propietario": "PABLA MERCADO DE LA ROSA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 18",
+    "libro": "3",
+    "folio": "22"
+  },
+  {
+    "num": "1825",
+    "propietario": "FLIA BERDUGO ALTAMAR",
+    "direccion": "",
+    "paz_salvo": "1997/2001",
+    "recibo": "28859",
+    "calle": "CALLE 18",
+    "libro": "3",
+    "folio": "22"
+  },
+  {
+    "num": "1826",
+    "propietario": "RAFAEL CERVANTES GARCIA",
+    "direccion": "CR 10 Nº25-58",
+    "paz_salvo": "1998",
+    "recibo": "",
+    "calle": "CALLE 18",
+    "libro": "3",
+    "folio": "22"
+  },
+  {
+    "num": "1826A",
+    "propietario": "FLIA FONSECA CORONADO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 18",
+    "libro": "3",
+    "folio": "22"
+  },
+  {
+    "num": "1827",
+    "propietario": "JOSE ANTONIO MENDOZA M.",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 18",
+    "libro": "3",
+    "folio": "22"
+  },
+  {
+    "num": "1828",
+    "propietario": "ILDEFONSO CASTRO CASTRO",
+    "direccion": "CL 16B Nº16-153",
+    "paz_salvo": "2002",
+    "recibo": "M-09164",
+    "calle": "CALLE 18",
+    "libro": "3",
+    "folio": "22"
+  },
+  {
+    "num": "2012",
+    "propietario": "C-O-R. 32434",
+    "direccion": "I-10/2012",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 18",
+    "libro": "3",
+    "folio": "22"
+  },
+  {
+    "num": "2014",
+    "propietario": "C-O-R. 39755",
+    "direccion": "I-9/2014",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 18",
+    "libro": "3",
+    "folio": "22"
+  },
+  {
+    "num": "2015",
+    "propietario": "C-O-R. 44556",
+    "direccion": "I-28/2015",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 18",
+    "libro": "3",
+    "folio": "22"
+  },
+  {
+    "num": "2016",
+    "propietario": "C-O-R. 48573",
+    "direccion": "I-22/2016",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 18",
+    "libro": "3",
+    "folio": "22"
+  },
+  {
+    "num": "1829",
+    "propietario": "VICENTE RIVERA A.",
+    "direccion": "",
+    "paz_salvo": "2012",
+    "recibo": "C-O-R. 32468",
+    "calle": "CALLE 18",
+    "libro": "3",
+    "folio": "23"
+  },
+  {
+    "num": "1830",
+    "propietario": "JOSE SARMIENTO OROZCO",
+    "direccion": "CR 18A CL 13",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 18",
+    "libro": "3",
+    "folio": "23"
+  },
+  {
+    "num": "1831",
+    "propietario": "FLIA CUENTAS MERCADO",
+    "direccion": "",
+    "paz_salvo": "1996",
+    "recibo": "9374",
+    "calle": "CALLE 18",
+    "libro": "3",
+    "folio": "23"
+  },
+  {
+    "num": "1832",
+    "propietario": "RAMIRO ANTONIO MOLINA RAMIREZ Y",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 18",
+    "libro": "3",
+    "folio": "23"
+  },
+  {
+    "num": "1833",
+    "propietario": "FLIA NARVAEZ CEPEDA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 18",
+    "libro": "3",
+    "folio": "23"
+  },
+  {
+    "num": "1834",
+    "propietario": "HERSILIA I. PIONETA DE NAVARRO",
+    "direccion": "CL 18 Nº30-28",
+    "paz_salvo": "2008",
+    "recibo": "C MIRA 18167",
+    "calle": "CALLE 18",
+    "libro": "3",
+    "folio": "23"
+  },
+  {
+    "num": "1835",
+    "propietario": "LUIS ALVAREZ MERCADO",
+    "direccion": "CL 22 Nº32A-05",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 18",
+    "libro": "3",
+    "folio": "24"
+  },
+  {
+    "num": "1836",
+    "propietario": "CLEOTILDE OSPINO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 18",
+    "libro": "3",
+    "folio": "24"
+  },
+  {
+    "num": "1837",
+    "propietario": "ARGILIO SANJUAN OROZCO",
+    "direccion": "",
+    "paz_salvo": "2002",
+    "recibo": "M-07961",
+    "calle": "CALLE 18",
+    "libro": "3",
+    "folio": "24"
+  },
+  {
+    "num": "1838",
+    "propietario": "JOSE MUÑOZ GOMEZ",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 18",
+    "libro": "3",
+    "folio": "24"
+  },
+  {
+    "num": "1838A",
+    "propietario": "EMIRA QUIROZ DE GENIS",
+    "direccion": "CL 14 Nº16B-34",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 18",
+    "libro": "3",
+    "folio": "24"
+  },
+  {
+    "num": "1839",
+    "propietario": "FLIA AHUMADA GALLARDO",
+    "direccion": "CL 18 Nº",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 18",
+    "libro": "3",
+    "folio": "24"
+  },
+  {
+    "num": "1840",
+    "propietario": "MARIA MUÑOZ DE GOMEZ",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 18",
+    "libro": "3",
+    "folio": "24"
+  },
+  {
+    "num": "1841",
+    "propietario": "GABRIELA HURTADO VDA DE P.",
+    "direccion": "",
+    "paz_salvo": "2003/2004",
+    "recibo": "7695",
+    "calle": "CALLE 18B",
+    "libro": "3",
+    "folio": "2"
+  },
+  {
+    "num": "1842",
+    "propietario": "FLIA AVILA JIMENEZ",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 18B",
+    "libro": "3",
+    "folio": "2"
+  },
+  {
+    "num": "1843",
+    "propietario": "FLIA PIÑERES MEMNDOZA",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 18B",
+    "libro": "3",
+    "folio": "2"
+  },
+  {
+    "num": "1844",
+    "propietario": "DIANIS M. FADULL",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 18B",
+    "libro": "3",
+    "folio": "2"
+  },
+  {
+    "num": "1845",
+    "propietario": "FLIA PEÑA MUÑOZ",
+    "direccion": "CL 18 Nº9-46",
+    "paz_salvo": "2000",
+    "recibo": "103517",
+    "calle": "CALLE 18B",
+    "libro": "3",
+    "folio": "2"
+  },
+  {
+    "num": "1846",
+    "propietario": "MARGOT PATIÑO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 18B",
+    "libro": "3",
+    "folio": "2"
+  },
+  {
+    "num": "1847",
+    "propietario": "FLIA OLIVARES AHUMADA",
+    "direccion": "",
+    "paz_salvo": "1990/2001",
+    "recibo": "7770",
+    "calle": "CALLE 18",
+    "libro": "3",
+    "folio": "26"
+  },
+  {
+    "num": "1848",
+    "propietario": "FLIA MORALES POMBO",
+    "direccion": "",
+    "paz_salvo": "2016/2017",
+    "recibo": "17010410001969",
+    "calle": "CALLE 18",
+    "libro": "3",
+    "folio": "26"
+  },
+  {
+    "num": "1848A",
+    "propietario": "FLIA SALAS SARMIENTO",
+    "direccion": "",
+    "paz_salvo": "",
+    "recibo": "",
+    "calle": "CALLE 18",
+    "libro": "3",
+    "folio": "26"
+  }
+]
