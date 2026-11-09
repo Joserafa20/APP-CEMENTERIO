@@ -379,7 +379,7 @@ function showDetail(id){
   const secVaults=bySection[d.calle]||[];
   const folioVaults=secVaults.filter(v=>v.folio===d.folio);
   const secConPaz=secVaults.filter(v=>v.paz_salvo).length;
-  const ownerVaults=DATA.filter(v=>v.propietario&&v.propietario.trim().toLowerCase()===d.propietario.trim().toLowerCase());
+  const ownerVaults=D.filter(v=>v.propietario&&v.propietario.trim().toLowerCase()===d.propietario.trim().toLowerCase());
   
   const libro=d.libro;
   const lc=LIB_COLOR[libro];
