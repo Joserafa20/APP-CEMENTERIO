@@ -171,6 +171,7 @@ body{background:var(--bg);color:var(--text);font-family:'Segoe UI',system-ui,san
     <div class="stat"><div><div class="stat-val" style="color:var(--green)" id="st-paz">0</div><div class="stat-lbl">Con paz y salvo</div></div></div>
     <div class="stat"><div><div class="stat-val" style="color:var(--l1l)" id="st-recibo">0</div><div class="stat-lbl">Con recibo</div></div></div>
     <div class="stat"><div><div class="stat-val" style="color:var(--text2)" id="st-secciones">0</div><div class="stat-lbl">Secciones</div></div></div>
+    <div class="stat"><div><div class="stat-val" style="color:var(--l2l)" id="st-nichos">0</div><div class="stat-lbl">Total nichos</div></div></div>
   </div>
 </header>
 
@@ -336,6 +337,7 @@ function buildSections(){
   document.getElementById('st-paz').textContent=D.filter(d=>d.paz_salvo).length;
   document.getElementById('st-recibo').textContent=D.filter(d=>d.recibo).length;
   document.getElementById('st-secciones').textContent=SECTION_ORDER.filter(s=>bySection[s]).length;
+  document.getElementById('st-nichos').textContent=D.reduce((s,d)=>s+(d.nichos||0),0);
   document.getElementById('rb-count').textContent=totalVis;
   document.getElementById('results-bar').querySelector('span').nextSibling.textContent=
     totalVis===D.length?' bóvedas encontradas':` de ${D.length} bóvedas`;
