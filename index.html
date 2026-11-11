@@ -380,8 +380,6 @@ function showDetail(id){
   const folioVaults=secVaults.filter(v=>v.folio===d.folio);
   const folioConPaz=folioVaults.filter(v=>v.paz_salvo).length;
   const folioSinPaz=folioVaults.length-folioConPaz;
-  const ownerVaults=D.filter(v=>v.propietario&&v.propietario.trim().toLowerCase()===d.propietario.trim().toLowerCase());
-  
   const libro=d.libro;
   const lc=LIB_COLOR[libro];
   const ll=LIB_LABEL[libro];
@@ -437,8 +435,8 @@ function showDetail(id){
       <div class="det-sec-title">Ubicación en el cementerio</div>
       <div class="nicho-info">
         <div class="nicho-stat">
-          <div class="n-val" style="color:${ll}">${ownerVaults.length}</div>
-          <div class="n-lbl">Nichos del propietario</div>
+          <div class="n-val" style="color:${ll}">${d.nichos!=null?d.nichos:'—'}</div>
+          <div class="n-lbl">Nichos en esta bóveda</div>
         </div>
         <div class="nicho-stat">
           <div class="n-val" style="color:${ll}">${folioVaults.length}</div>
